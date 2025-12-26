@@ -19,5 +19,5 @@
 ---
 
 <p align="center">
-  https://translation-service.streamlit.app](https://justdo-it-msc-translation-service-app-0sxdxn.streamlit.app
+  https://justdo-it-msc-translation-service-app-0sxdxn.streamlit.app/
 </p>
